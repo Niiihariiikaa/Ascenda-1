@@ -6,8 +6,7 @@ Ascenda is an AI-powered virtual career assistant built with Next.js that helps 
 
 ## 🧪 Getting Started Locally
 ```bash
-git clone https://github.com/Rijul1607/Ascenda
-cd Ascenda
+git clone https://github.com/Niiihariiikaa/Ascenda-1
 npm install
 npm run dev
 ```
